@@ -67,10 +67,13 @@ h2{
 .card-travel img{
   border-radius: 28px;
   margin-top:48px;
+  object-fit: cover;
+  width: 100%;
 }
 
 .card-travel h2{
   margin-top: 20px;
+
 }
  p {
   font-size: 16px;
@@ -99,6 +102,7 @@ ul {
 footer p{
   text-align: center;
   margin-top: 40px;
+  
 }
 
 .icon{
@@ -106,6 +110,7 @@ footer p{
  justify-content: center;
  align-items: center;
  margin-top: 78px;
+ gap: 4px;
   
 }
 
